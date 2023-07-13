@@ -17,45 +17,71 @@
                 Console.WriteLine($"enter the data of student {i + 1}");
 
                 Console.WriteLine("enter the Ssn:-");
-                ssn = Console.ReadLine();
+                studentData[i].Ssn = Console.ReadLine();
 
                 Console.WriteLine("enter the name:-");
-                name = Console.ReadLine();
+                studentData[i].Name = Console.ReadLine();
 
-                Console.WriteLine("enter the Address:-");
-                address =Console.ReadLine();
+               
 
                 Console.WriteLine("enter the Age:-");
-                age = int.Parse(Console.ReadLine());
+                studentData[i].Age= int.Parse(Console.ReadLine());
 
-                studentData[i].Intail(name, ssn, age , address );
+                
             }
 
             for (int i = 0; i < n; i++)
             {
                 Console.WriteLine($"data of sudent {i + 1}===================>");
-                Console.WriteLine(studentData[i].Print());
+                Console.WriteLine($"name:-{studentData[i].Name} \nage:-{studentData[i].Age} \nssn:-{studentData[i].Ssn}");
             }
         }
     }
 
     class studentData
     {
-        string name;
-        string ssn;
-        int age;
-        string Address;
-        public void Intail(string Name, string Ssn, int Age, string _Address)
+        private string ssn;
+        private string name;
+        private int age;
+
+
+        public studentData()
         {
-            name = Name;
-            ssn = Ssn;
-            age = Age;
-            Address = _Address;
+            ssn = "64566";
+            name = "mahmoud";
+            age = 50;
+
+        }
+        public studentData(string _ssn, string _name, int _age)
+        {
+            ssn = _ssn;
+            name = _name;
+            age = -age;
+
+
         }
 
-        public string Print()
+        public string Ssn
         {
-            return $"====================\nName==>{name} \nSsn==>{ssn} \nAge==>{age} \nAddress==>{Address} ";
+            get { return ssn; }
+            set
+            {
+                ssn = value;
+            }
+        }
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        public int Age
+        {
+            get { return age; }
+            set
+            {
+                age = value;
+            }
         }
 
 

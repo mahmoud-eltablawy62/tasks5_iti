@@ -1,0 +1,15 @@
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\Notify.csproj.AssemblyReference.cache
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\Notify.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\Notify.AssemblyInfoInputs.cache
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\Notify.AssemblyInfo.cs
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\Notify.csproj.CoreCompileInputs.cache
+D:\tasks\tasks5_iti\Notify\Notify\bin\Debug\net6.0\Notify.exe
+D:\tasks\tasks5_iti\Notify\Notify\bin\Debug\net6.0\Notify.deps.json
+D:\tasks\tasks5_iti\Notify\Notify\bin\Debug\net6.0\Notify.runtimeconfig.json
+D:\tasks\tasks5_iti\Notify\Notify\bin\Debug\net6.0\Notify.dll
+D:\tasks\tasks5_iti\Notify\Notify\bin\Debug\net6.0\Notify.pdb
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\Notify.dll
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\refint\Notify.dll
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\Notify.pdb
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\Notify.genruntimeconfig.cache
+D:\tasks\tasks5_iti\Notify\Notify\obj\Debug\net6.0\ref\Notify.dll
