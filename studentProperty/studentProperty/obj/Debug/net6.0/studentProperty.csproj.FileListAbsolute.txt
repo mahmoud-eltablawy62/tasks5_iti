@@ -1,0 +1,15 @@
+D:\tasks\tasks4_iti\studentProperty\studentProperty\bin\Debug\net6.0\studentProperty.exe
+D:\tasks\tasks4_iti\studentProperty\studentProperty\bin\Debug\net6.0\studentProperty.deps.json
+D:\tasks\tasks4_iti\studentProperty\studentProperty\bin\Debug\net6.0\studentProperty.runtimeconfig.json
+D:\tasks\tasks4_iti\studentProperty\studentProperty\bin\Debug\net6.0\studentProperty.dll
+D:\tasks\tasks4_iti\studentProperty\studentProperty\bin\Debug\net6.0\studentProperty.pdb
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\studentProperty.csproj.AssemblyReference.cache
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\studentProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\studentProperty.AssemblyInfoInputs.cache
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\studentProperty.AssemblyInfo.cs
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\studentProperty.csproj.CoreCompileInputs.cache
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\studentProperty.dll
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\refint\studentProperty.dll
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\studentProperty.pdb
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\studentProperty.genruntimeconfig.cache
+D:\tasks\tasks4_iti\studentProperty\studentProperty\obj\Debug\net6.0\ref\studentProperty.dll
