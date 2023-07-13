@@ -88,7 +88,7 @@ namespace student_data
         {
             if(counter % 10 == 0)
             {
-                Console.WriteLine("ten");
+                Console.WriteLine("ten students is register");
             }
         }
 

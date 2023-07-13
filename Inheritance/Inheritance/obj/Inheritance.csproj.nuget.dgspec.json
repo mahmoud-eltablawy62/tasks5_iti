@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tasks\\tasks5_iti\\studentProperty\\studentProperty\\studentProperty.csproj": {}
+    "D:\\tasks\\tasks4_iti\\Inheritance\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "D:\\tasks\\tasks5_iti\\studentProperty\\studentProperty\\studentProperty.csproj": {
+    "D:\\tasks\\tasks4_iti\\Inheritance\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tasks\\tasks5_iti\\studentProperty\\studentProperty\\studentProperty.csproj",
-        "projectName": "studentProperty",
-        "projectPath": "D:\\tasks\\tasks5_iti\\studentProperty\\studentProperty\\studentProperty.csproj",
+        "projectUniqueName": "D:\\tasks\\tasks4_iti\\Inheritance\\Inheritance\\Inheritance.csproj",
+        "projectName": "Inheritance",
+        "projectPath": "D:\\tasks\\tasks4_iti\\Inheritance\\Inheritance\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\CompuMisr\\.nuget\\packages\\",
-        "outputPath": "D:\\tasks\\tasks5_iti\\studentProperty\\studentProperty\\obj\\",
+        "outputPath": "D:\\tasks\\tasks4_iti\\Inheritance\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CompuMisr\\AppData\\Roaming\\NuGet\\NuGet.Config",
